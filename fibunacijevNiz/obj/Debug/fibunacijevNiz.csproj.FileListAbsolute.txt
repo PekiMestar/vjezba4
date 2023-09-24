@@ -1,0 +1,7 @@
+C:\Users\Gamer\source\repos\fibunacijevNiz\fibunacijevNiz\bin\Debug\fibunacijevNiz.exe.config
+C:\Users\Gamer\source\repos\fibunacijevNiz\fibunacijevNiz\bin\Debug\fibunacijevNiz.exe
+C:\Users\Gamer\source\repos\fibunacijevNiz\fibunacijevNiz\bin\Debug\fibunacijevNiz.pdb
+C:\Users\Gamer\source\repos\fibunacijevNiz\fibunacijevNiz\obj\Debug\fibunacijevNiz.csproj.AssemblyReference.cache
+C:\Users\Gamer\source\repos\fibunacijevNiz\fibunacijevNiz\obj\Debug\fibunacijevNiz.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\fibunacijevNiz\fibunacijevNiz\obj\Debug\fibunacijevNiz.exe
+C:\Users\Gamer\source\repos\fibunacijevNiz\fibunacijevNiz\obj\Debug\fibunacijevNiz.pdb
